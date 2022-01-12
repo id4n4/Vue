@@ -6,3 +6,6 @@ npm install -g @vue/cli
 
 Para crear una nueva aplicación Vue:
 vue create relecloudls
+
+Correr servidor
+npm run serve
